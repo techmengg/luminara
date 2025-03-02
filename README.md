@@ -19,7 +19,7 @@ Luminara is built using the following technologies:
 - **OpenCV** – For deep learning-based super-resolution models
 - **NumPy** – For numerical operations on images
 - **Python Imaging Library (PIL)** – For handling image formats
-- **TensorFlow / PyTorch (Optional)** – If additional AI models are used
+- **TensorFlow** – Additional AI models are used
 
 ### **Frameworks & Dependencies**
 - **Streamlit** – UI framework for web-based interaction
