@@ -11,6 +11,20 @@ Luminara is an AI-powered image rescaling tool that utilizes deep learning model
 - **Supports JPG & PNG**: Works with widely used image formats.
 - **Open Source**: Licensed under the MIT License.
 
+## 🛠 Tools, Languages & Frameworks
+Luminara is built using the following technologies:
+
+### **Languages & Libraries**
+- **Python** – Core language for AI processing and web UI
+- **OpenCV** – For deep learning-based super-resolution models
+- **NumPy** – For numerical operations on images
+- **Python Imaging Library (PIL)** – For handling image formats
+- **TensorFlow / PyTorch (Optional)** – If additional AI models are used
+
+### **Frameworks & Dependencies**
+- **Streamlit** – UI framework for web-based interaction
+- **OpenCV DNN Module** – Pretrained super-resolution model execution
+
 ## Installation
 
 To use Luminara locally, follow these steps:
@@ -64,7 +78,6 @@ Click "Rescale Image" to apply the AI model and download the enhanced image.
 ![home](https://github.com/user-attachments/assets/cc95342a-fca6-4f5c-b1b8-8feef6583be2)
 ![results](https://github.com/user-attachments/assets/0f1cdd84-8d24-423b-8da1-af55ae73241c)
 
-
 ## 🛠 Code Snippets
 ### Load and Apply Super-Resolution Model
 ```python
@@ -96,6 +109,5 @@ uploaded_file = st.file_uploader("Upload an image", type=['jpg', 'png'])
 ---
 
 > Developed by **techmengg** | [GitHub](https://github.com/techmengg)
-
 
 
