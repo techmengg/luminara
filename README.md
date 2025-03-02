@@ -3,8 +3,6 @@
 ## ✨ Overview
 Luminara is an AI-powered image rescaling tool that utilizes deep learning models to upscale images while preserving details. It provides a simple and interactive web interface using Streamlit and supports multiple upscaling factors (2x, 3x, 4x, and 8x).
 
-![Luminara Banner](https://your-image-link.com/banner.png)
-
 ## 🚀 Features
 - **AI-based Super Resolution**: Uses deep learning models for high-quality image upscaling.
 - **Multiple Scaling Options**: Supports **2x, 3x, 4x, and 8x** scaling factors.
@@ -94,13 +92,6 @@ uploaded_file = st.file_uploader("Upload an image", type=['jpg', 'png'])
 - **Processing Time**: Higher scaling factors (especially 8x) may take longer.
 - **Resource Intensive**: Running on a CPU may be slow; a GPU is recommended.
 - **Model Compatibility**: RCAN models may not work outside of OpenCV.
-
-## 👥 Contributors
-- [Techmeng Aing](https://github.com/techmengg) *(Lead Developer)*
-- Contributions are welcome! Open an issue or submit a pull request.
-
-## ⭐ Support the Project
-If you find Luminara useful, give it a **⭐ on GitHub** and share it with others!
 
 ---
 
