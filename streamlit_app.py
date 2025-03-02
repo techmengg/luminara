@@ -91,7 +91,7 @@ st.markdown("""
         <p>💡 <b>Tip:</b> If you're working with very low-resolution images, try 4x before going to 8x.</p>
         <h4>🚀 How to Use:</h4>
         <p>1️⃣ Choose a scale factor (2x, 3x, 4x, or 8x).</p>
-        <p>2️⃣ Select an AI model <b>(Avoid using RCAN)</b>.</p>
+        <p>2️⃣ Select an AI model <b>(Avoid using RCAN model (models outside of OpenCV may not work!))</b>.</p>
         <p>3️⃣ Upload your image (JPG/PNG).</p>
         <p>4️⃣ Click <b>"Scale Image"</b> and download the result.</p>
         <p>⚠️ <b>Note:</b> Higher scaling (8x) may be slow on Streamlit due to CPU limits.</p>
