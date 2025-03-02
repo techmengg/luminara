@@ -91,7 +91,7 @@ uploaded_file = st.file_uploader("Upload an image", type=['jpg', 'png'])
 ## ⚠️ Limitations
 - **Processing Time**: Higher scaling factors (especially 8x) may take longer.
 - **Resource Intensive**: Running on a CPU may be slow; a GPU is recommended.
-- **Model Compatibility**: RCAN models may not work outside of OpenCV.
+- **Model Compatibility**: RCAN models (and many more) may not be compatible w/ OpenCV.
 
 ---
 
