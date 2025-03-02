@@ -95,7 +95,7 @@ st.markdown("""
         <p>3️⃣ Upload your image (JPG/PNG).</p>
         <p>4️⃣ Click <b>"Scale Image"</b> and download the result.</p>
         <p>⚠️ <b>Note:</b> Higher scaling (8x) may be slow on Streamlit due to CPU limits.</p>
-        <p>Developed by <a href='https://github.com/techmengg' target='_blank'>Techmeng Aing</a></p>
+        <p>Developed by <a href='https://github.com/techmengg' target='_blank'>techmengg</a></p>
     </div>
 """, unsafe_allow_html=True)
 
