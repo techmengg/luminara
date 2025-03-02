@@ -87,15 +87,15 @@ st.markdown("""
         <p>This AI-powered tool helps you <b>rescale images</b> using deep learning models.</p>
         <h4>📏 Scaling Guide:</h4>
         <p><b>2x, 3x:</b> Moderate rescaling, faster processing.</p>
-        <p><b>4x, 8x:</b> Larger rescaling, recommended for detailed resizing.</p>
-        <p>💡 <b>Tip:</b> If you're working with very low-quality images, try 4x before going to 8x.</p>
+        <p><b>4x, 8x:</b> Higher rescaling, maintaining details but does not enhance image quality.</p>
+        <p>💡 <b>Tip:</b> If you're working with very low-resolution images, try 4x before going to 8x.</p>
         <h4>🚀 How to Use:</h4>
         <p>1️⃣ Choose a scale factor (2x, 3x, 4x, or 8x).</p>
-        <p>2️⃣ Select an AI model.</p>
+        <p>2️⃣ Select an AI model <b>(Avoid using RCAN)</b>.</p>
         <p>3️⃣ Upload your image (JPG/PNG).</p>
-        <p>4️⃣ Click <b>"Rescale Image"</b> and download the result.</p>
+        <p>4️⃣ Click <b>"Scale Image"</b> and download the result.</p>
         <p>⚠️ <b>Note:</b> Higher scaling (8x) may be slow on Streamlit due to CPU limits.</p>
-        <p>Developed by <a href='https://github.com/techmengg' target='_blank'>techmengg</a></p>
+        <p>Developed by <a href='https://github.com/techmengg' target='_blank'>Techmeng Aing</a></p>
     </div>
 """, unsafe_allow_html=True)
 
