@@ -1,4 +1,4 @@
-# Luminara: Image Upscaler (Open-Source)
+# Luminara: AI-Powered Image Upscaler (Open-Source)
 
 ## ✨ Overview
 Luminara is an AI-powered image rescaling tool that utilizes deep learning models to upscale images while preserving details. It provides a simple and interactive web interface using Streamlit and supports multiple upscaling factors (2x, 3x, 4x, and 8x).
