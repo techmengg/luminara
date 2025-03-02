@@ -1,9 +1,9 @@
 # Luminara: AI-Powered Image Upscaler (Open-Source)
 
-## ✨ Overview
+## Overview
 Luminara is an AI-powered image rescaling tool that utilizes deep learning models to upscale images while preserving details. It provides a simple and interactive web interface using Streamlit and supports multiple upscaling factors (2x, 3x, 4x, and 8x).
 
-## 🚀 Features
+## Features
 - **AI-based Super Resolution**: Uses deep learning models for high-quality image upscaling.
 - **Multiple Scaling Options**: Supports **2x, 3x, 4x, and 8x** scaling factors.
 - **Easy-to-Use UI**: Built with Streamlit for a smooth and intuitive experience.
@@ -11,7 +11,7 @@ Luminara is an AI-powered image rescaling tool that utilizes deep learning model
 - **Supports JPG & PNG**: Works with widely used image formats.
 - **Open Source**: Licensed under the MIT License.
 
-## 👅 Installation
+## Installation
 
 To use Luminara locally, follow these steps:
 
@@ -28,7 +28,7 @@ source venv/bin/activate  # On Windows, use 'venv\Scripts\activate'
 pip install -r requirements.txt
 ```
 
-## 🎮 Usage
+## Usage
 
 Run the Streamlit application:
 
@@ -38,7 +38,7 @@ python3 -m streamlit run streamlit_app.py
 
 Then open `http://localhost:8501/` in your web browser.
 
-## 🔧 Available AI Models
+## Available AI Models
 Luminara supports the following deep learning models for super-resolution:
 
 | Scale Factor | Models Available |
@@ -48,7 +48,7 @@ Luminara supports the following deep learning models for super-resolution:
 | **4x** | EDSR, ESPCN, FSRCNN, LapSRN, RCAN |
 | **8x** | LapSRN, RCAN |
 
-## 🖼️ How It Works
+## How It Works
 ### 1️⃣ Select Rescale Factor
 Choose from **2x, 3x, 4x, or 8x** scaling options.
 
