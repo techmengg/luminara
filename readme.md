@@ -176,10 +176,12 @@ streamlit run streamlit_app.py
 ```
 
 Code style: follow existing patterns, keep pull requests focused, and prefer clear, maintainable changes over cleverness.
-```
+
+---
+
 <img width="2554" height="1271" alt="luminara1" src="https://github.com/user-attachments/assets/e727073a-1f22-4707-87b4-2149271692d8" />
 <img width="2556" height="1263" alt="luminara2" src="https://github.com/user-attachments/assets/25dc43a3-4eed-4ce1-a099-36e17383bc7b" />
-```
+
 ---
 
 ## Roadmap
@@ -204,4 +206,5 @@ Contributions are welcome. Please open an issue to discuss significant changes. 
 - OpenCV DNN Super Resolution (cv2.dnn_superres)
 - EDSR, ESPCN, FSRCNN, LapSRN, and RCAN model authors and communities
 - Streamlit for a delightful developer and user experience
+
 
